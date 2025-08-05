@@ -9,7 +9,7 @@ function App() {
       <div className="max-w-2xl mx-auto text-center space-y-6">
         <h1 className="text-5xl font-bold tracking-tight">synced.fm</h1>
         <p className="text-lg text-purple-300">
-          Find concerts based on your Spotify tastes.
+          Find concerts based on your Spotify tastes. ben kim is the pokemon showdown champion ! :3
         </p>
         <button className="mt-4 px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-full font-medium text-white transition">
           Log in with Spotify
